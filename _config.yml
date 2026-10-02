@@ -13,8 +13,8 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio"
-url                      : https://wangzijin91-hash.github.io/LJT-Homepage
-baseurl                  : ""
+url                      : https://wangzijin91-hash.github.io
+baseurl                  : "/LJT-Homepage"
 repository               : "wangzijin91-hash/LJT-Homepage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
